@@ -1,7 +1,7 @@
 //Take in two numbers and an operator (+, -, *, /) and calculate the value.
 //(Use if conditions)
 
-package Simple_Programs;
+package Basic_Programs;
 
 import java.util.Scanner;
 
