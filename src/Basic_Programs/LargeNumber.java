@@ -1,6 +1,6 @@
 //Take 2 numbers as input and print the largest number.
 
-package Simple_Programs;
+package Basic_Programs;
 
 import java.util.Scanner;
 
