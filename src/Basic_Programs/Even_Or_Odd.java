@@ -1,6 +1,6 @@
 //Write a program to print whether a number is even or odd, also take input from the user.
 
-package Simple_Programs;
+package Basic_Programs;
 
 import java.util.Scanner;
 
