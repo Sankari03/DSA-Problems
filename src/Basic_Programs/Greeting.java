@@ -1,6 +1,6 @@
 //Take name as input and print a greeting message for that particular name.
 
-package Simple_Programs;
+package Basic_Programs;
 
 import java.util.Scanner;
 
