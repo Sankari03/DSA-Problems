@@ -1,6 +1,6 @@
 //Input currency in rupees and output in USD.
 
-package Simple_Programs;
+package Basic_Programs;
 
 import java.util.Scanner;
 
