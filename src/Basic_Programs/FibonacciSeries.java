@@ -1,6 +1,6 @@
 //To calculate Fibonacci Series up to n numbers.
 
-package Simple_Programs;
+package Basic_Programs;
 
 import java.util.Scanner;
 
