@@ -19,13 +19,7 @@ public class ElectricityBillCalculator {
                 amount = 100 * 2.25 + 200 * 4.5 + (units-400) * 6;
             }
         } else {
-            if (units <= 100){
-                amount = 0;
-            } else if (units <= 400) {
-                amount = (units-100) * 4.5;
-            }else if (units <= 500) {
-                amount = 400 * 4.5 + (units - 400) *6;
-            }else if (units <= 600) {
+            if (units <= 600) {
                 amount = 400 * 4.5 + 100 * 6 + (units - 500) * 8;
             }else if (units <= 800) {
                 amount = 400 * 4.5 + 100 * 6 + 100 * 8 + (units - 600) * 9;
