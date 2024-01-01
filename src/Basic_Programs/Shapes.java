@@ -40,7 +40,7 @@ public class Shapes {
                 case 1 -> {
                     System.out.println("Area Of Circle\nEnter the radius");
                     float radius = sc.nextFloat();
-                    System.out.println("The Area Of the Circle is " + radius * radius);
+                    System.out.println("The Area Of the Circle is " + 3.14 *radius * radius);
                 }
                 case 2 -> {
                     System.out.println("Area Of Triangle\nEnter the base and height ");
