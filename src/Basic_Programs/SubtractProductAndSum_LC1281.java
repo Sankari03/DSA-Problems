@@ -4,7 +4,7 @@ package Basic_Programs;
 
 import java.util.Scanner;
 
-public class SubtractProductAndSum_Leetcode_1281 {
+public class SubtractProductAndSum_LC1281 {
     public static void main(String[] args) {
         System.out.print("Enter an integer: ");
         Scanner sc = new Scanner(System.in);
